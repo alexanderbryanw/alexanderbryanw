@@ -17,5 +17,5 @@ I'm currently active as a participant in Bangkit Academy 2022: Android Learning 
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/alexander-bryan-wiratman-523aa5195">LinkedIn</a>
+- <a href="www.linkedin.com/in/alexanderbryanw">LinkedIn</a>
 - alexander.bryan@student.umn.ac.id
