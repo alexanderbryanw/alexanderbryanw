@@ -2,7 +2,7 @@
 
 An Information System Student at [Universitas Multimedia Nusantara](https://www.umn.ac.id/en/home/).
 
-I'm currently active as a participant in Bangkit Academy 2022: Android Learning Path.
+I'm currently active as a participant in Bangkit Academy 2022: Android Learning Path. Current project -> @C22-PS001-Capstone 
 
 - 🔭 I’m a participant of [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
 - 🌱 I’m currently learning about Android and Big Data Analytics
