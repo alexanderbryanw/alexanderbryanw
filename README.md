@@ -1,11 +1,8 @@
 ### Hi there! 👋 I'm Bryan.
 
-An Information System Student at [Universitas Multimedia Nusantara](https://www.umn.ac.id/en/home/).
+An Android Developer!
 
-I'm currently active as a participant in Bangkit Academy 2022: Android Learning Path. 
-Current project -> [@C22-PS001-Capstone](https://github.com/C22-PS001-Capstone) 
-
-- 🔭 I’m a participant of [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
+- 🔭 I’m a distinction graduate from [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
 - 🌱 I’m currently learning about Android and Big Data Analytics
 - 📫 How to reach me: alexander.bryan@student.umn.ac.id
 - ⚡ Fun fact: I have 3 cats
